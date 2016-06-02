@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.12)  2 JUN 2016 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.25)  2 JUN 2016 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26,45 +26,26 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/09/25 3.9l The Babel package
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-french/frenchb.ldf
-Language: frenchb 2015/04/10 v3.1e French support from the babel system
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
-\l@acadian = a dialect from \language\l@french 
-\l@canadien = a dialect from \language\l@french 
-\FBcolonskip=\skip43
-\FBthinskip=\skip44
-\FB@interchartokenstateORI=\count88
-Package babel Info: Making : an active character on input line 371.
-Package babel Info: Making ; an active character on input line 372.
-Package babel Info: Making ! an active character on input line 373.
-Package babel Info: Making ? an active character on input line 374.
-\FBguillskip=\skip45
-\FBguill@level=\count89
-\FB@Mht=\dimen104
-\std@mcc=\count90
-\dec@mcc=\count91
-\listindentFB=\skip46
-\labelwidthFB=\skip47
-\leftmarginFB=\skip48
-\parindentFFN=\dimen105
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/carlisle/scalefnt.sty)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip49
-\enit@outerparindent=\dimen106
+\enitkv@toks@=\toks14
+\labelindent=\skip43
+\enit@outerparindent=\dimen104
 \enit@toks=\toks15
 \enit@inbox=\box26
-\enitdp@description=\count92
+\enitdp@description=\count88
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -293,6 +274,10 @@ Now handling font encoding U ...
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
@@ -313,14 +298,14 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count93
+\Gread@gobject=\count89
 ))
-\Gin@req@height=\dimen107
-\Gin@req@width=\dimen108
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -328,7 +313,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip50
+\@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -336,65 +321,65 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks19
-\ex@=\dimen109
+\@emptytoks=\toks20
+\ex@=\dimen107
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen110
+\pmbraise@=\dimen108
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count94
+\inf@bad=\count90
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count95
-\leftroot@=\count96
+\uproot@=\count91
+\leftroot@=\count92
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count97
-\DOTSCASE@=\count98
+\classnum@=\count93
+\DOTSCASE@=\count94
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
-\big@size=\dimen111
+\big@size=\dimen109
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count99
-\c@MaxMatrixCols=\count100
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
 \dotsspace@=\muskip10
-\c@parentequation=\count101
-\dspbrk@lvl=\count102
-\tag@help=\toks20
-\row@=\count103
-\column@=\count104
-\maxfields@=\count105
-\andhelp@=\toks21
-\eqnshift@=\dimen112
-\alignsep@=\dimen113
-\tagshift@=\dimen114
-\tagwidth@=\dimen115
-\totwidth@=\dimen116
-\lineht@=\dimen117
-\@envbody=\toks22
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks23
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks21
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks22
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks23
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
-\thm@preskip=\skip53
-\thm@postskip=\skip54
-\thm@headsep=\skip55
-\dth@everypar=\toks29
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks30
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/empheq.sty
 Package: empheq 2014/07/16 v2.14 Emphasizing equations
@@ -407,46 +392,46 @@ Package: mathtools 2015/05/11 v1.16 mathematical typesetting tools
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count106
-\calc@Bcount=\count107
-\calc@Adimen=\dimen118
-\calc@Bdimen=\dimen119
-\calc@Askip=\skip56
-\calc@Bskip=\skip57
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen116
+\calc@Bdimen=\dimen117
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count108
-\calc@Cskip=\skip58
+\calc@Ccount=\count104
+\calc@Cskip=\skip52
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count109
-\l_MT_multwidth_dim=\dimen120
-\origjot=\skip59
-\l_MT_shortvdotswithinadjustabove_dim=\dimen121
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen122
-\l_MT_above_intertext_sep=\dimen123
-\l_MT_below_intertext_sep=\dimen124
-\l_MT_above_shortintertext_sep=\dimen125
-\l_MT_below_shortintertext_sep=\dimen126
+\g_MT_multlinerow_int=\count105
+\l_MT_multwidth_dim=\dimen118
+\origjot=\skip53
+\l_MT_shortvdotswithinadjustabove_dim=\dimen119
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen120
+\l_MT_above_intertext_sep=\dimen121
+\l_MT_below_intertext_sep=\dimen122
+\l_MT_above_shortintertext_sep=\dimen123
+\l_MT_below_shortintertext_sep=\dimen124
 )
-\l_EQ_equationtype_int=\count110
-\l_EQ_alignmentmode_int=\count111
-\l_EQ_totalwidth_dim=\dimen127
-\l_EQ_displaywidth_dim=\dimen128
-\l_EQ_temp_linewidth_dim=\dimen129
-\EmphEqdelimitershortfall=\dimen130
-\EmphEqdelimiterfactor=\count112
-\g_EQ_toptag_height_dim=\dimen131
-\g_EQ_bottomtag_depth_dim=\dimen132
-\g_EQ_toprow_height_dim=\dimen133
-\g_EQ_bottomrow_depth_dim=\dimen134
-\g_EQ_widesttag_dim=\dimen135
+\l_EQ_equationtype_int=\count106
+\l_EQ_alignmentmode_int=\count107
+\l_EQ_totalwidth_dim=\dimen125
+\l_EQ_displaywidth_dim=\dimen126
+\l_EQ_temp_linewidth_dim=\dimen127
+\EmphEqdelimitershortfall=\dimen128
+\EmphEqdelimiterfactor=\count108
+\g_EQ_toptag_height_dim=\dimen129
+\g_EQ_bottomtag_depth_dim=\dimen130
+\g_EQ_toprow_height_dim=\dimen131
+\g_EQ_bottomrow_depth_dim=\dimen132
+\g_EQ_widesttag_dim=\dimen133
 \EQ_mathdisplay_box=\box29
 \EQ_tag_box=\box30
-\g_EQ_temprow_int=\count113
+\g_EQ_temprow_int=\count109
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
@@ -454,43 +439,43 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
-\subfigtopskip=\skip60
-\subfigcapskip=\skip61
-\subfigcaptopadj=\dimen136
-\subfigbottomskip=\skip62
-\subfigcapmargin=\dimen137
-\subfiglabelskip=\skip63
-\c@subfigure=\count114
-\c@lofdepth=\count115
-\c@subtable=\count116
-\c@lotdepth=\count117
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen134
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen135
+\subfiglabelskip=\skip57
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
-\subfig@top=\skip64
-\subfig@bottom=\skip65
+\subfig@top=\skip58
+\subfig@bottom=\skip59
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
-\c@tracingmulticols=\count118
+\c@tracingmulticols=\count114
 \mult@box=\box32
-\multicol@leftmargin=\dimen138
-\c@unbalance=\count119
-\c@collectmore=\count120
-\doublecol@number=\count121
-\multicoltolerance=\count122
-\multicolpretolerance=\count123
-\full@width=\dimen139
-\page@free=\dimen140
-\premulticols=\dimen141
-\postmulticols=\dimen142
-\multicolsep=\skip66
-\multicolbaselineskip=\skip67
+\multicol@leftmargin=\dimen136
+\c@unbalance=\count115
+\c@collectmore=\count116
+\doublecol@number=\count117
+\multicoltolerance=\count118
+\multicolpretolerance=\count119
+\full@width=\dimen137
+\page@free=\dimen138
+\premulticols=\dimen139
+\postmulticols=\dimen140
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
 \partial@page=\box33
 \last@line=\box34
-\maxbalancingoverflow=\dimen143
+\maxbalancingoverflow=\dimen141
 \mult@rightbox=\box35
 \mult@grightbox=\box36
 \mult@gfirstbox=\box37
@@ -512,14 +497,14 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \@tempa=\box53
 \@tempa=\box54
 \@tempa=\box55
-\c@columnbadness=\count124
-\c@finalcolumnbadness=\count125
-\last@try=\dimen144
-\multicolovershoot=\dimen145
-\multicolundershoot=\dimen146
+\c@columnbadness=\count120
+\c@finalcolumnbadness=\count121
+\last@try=\dimen142
+\multicolovershoot=\dimen143
+\multicolundershoot=\dimen144
 \mult@nat@firstbox=\box56
 \colbreak@box=\box57
-\mc@col@check@num=\count126
+\mc@col@check@num=\count122
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
@@ -532,14 +517,17 @@ Package color Info: Driver file: pdftex.def on input line 142.
 (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box58
 \UL@hyphenbox=\box59
-\UL@skip=\skip68
-\UL@hook=\toks30
-\UL@height=\dimen147
-\UL@pe=\count127
-\UL@pixel=\dimen148
+\UL@skip=\skip62
+\UL@hook=\toks31
+\UL@height=\dimen145
+\UL@pe=\count123
+\UL@pixel=\dimen146
 \ULC@box=\box60
 Package: ulem 2012/05/18
-\ULdepth=\dimen149
+\ULdepth=\dimen147
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/genmisc/nth.sty
+Package: nth 2002/02/27
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -598,16 +586,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen150
-\Hy@linkcounter=\count128
-\Hy@pagecounter=\count129
+\@linkdim=\dimen148
+\Hy@linkcounter=\count124
+\Hy@pagecounter=\count125
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count130
+\Hy@SavedSpaceFactor=\count126
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -619,17 +607,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count131
+\c@Hy@tempcnt=\count127
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen151
-\Fld@menulength=\count132
-\Field@Width=\dimen152
-\Fld@charsize=\dimen153
+\XeTeXLinkMargin=\dimen149
+\Fld@menulength=\count128
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -639,51 +627,51 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count133
-\c@Item=\count134
-\c@Hfootnote=\count135
+\Hy@abspage=\count129
+\c@Item=\count130
+\c@Hfootnote=\count131
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count136
-\c@bookmark@seq@number=\count137
+\Fld@listcount=\count132
+\c@bookmark@seq@number=\count133
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip69
+\Hy@SectionHShift=\skip63
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count138
-\Gm@cntv=\count139
-\c@Gm@tempcnt=\count140
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks31
+\Gm@cnth=\count134
+\Gm@cntv=\count135
+\c@Gm@tempcnt=\count136
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks32
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancybox/fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \@fancybox=\box61
-\shadowsize=\dimen162
+\shadowsize=\dimen160
 \@Sbox=\box62
-\do@VerbBox=\toks32
-\the@fancyput=\toks33
-\this@fancyput=\toks34
-\EndVerbatimTokens=\toks35
+\do@VerbBox=\toks33
+\the@fancyput=\toks34
+\this@fancyput=\toks35
+\EndVerbatimTokens=\toks36
 \Verbatim@Outfile=\write3
 \Verbatim@Infile=\read1
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pdfpages.sty
@@ -695,20 +683,20 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
 )
-\AM@pagewidth=\dimen163
-\AM@pageheight=\dimen164
+\AM@pagewidth=\dimen161
+\AM@pageheight=\dimen162
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box63
-\AM@toc@title=\toks36
-\c@AM@survey=\count141
+\AM@toc@title=\toks37
+\c@AM@survey=\count137
 \AM@templatesizebox=\box64
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
-No file lettreMotivation.aux.
+(./lettreMotivation.aux)
 \openout1 = `lettreMotivation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -725,22 +713,20 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \degres on input line 27.
-LaTeX Info: Redefining \dots on input line 27.
-LaTeX Info: Redefining \up on input line 27.
+
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen165
+\scratchcounter=\count138
+\scratchdimen=\dimen163
 \scratchbox=\box65
-\nofMPsegments=\count143
-\nofMParguments=\count144
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen166
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
-\everyMPtoPDFconversion=\toks38
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen164
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -765,11 +751,13 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count148
+\c@section@level=\count144
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
 LaTeX Info: Redefining \nameref on input line 27.
+
+(./lettreMotivation.out) (./lettreMotivation.out)
 \@outlinefile=\write4
 \openout4 = `lettreMotivation.out'.
 
@@ -808,68 +796,60 @@ LaTeX Info: Redefining \nameref on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
 
 (./lettreMotivation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
-
-
-Package rerunfilecheck Warning: File `lettreMotivation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lettreMotivation.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
+Package rerunfilecheck Info: File `lettreMotivation.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 9934 strings out of 493089
- 145841 string characters out of 6134841
- 258597 words of memory out of 5000000
- 13268 multiletter control sequences out of 15000+600000
- 10685 words of font info for 36 fonts, out of 8000000 for 9000
+ 9296 strings out of 493089
+ 136034 string characters out of 6134842
+ 248157 words of memory out of 5000000
+ 12628 multiletter control sequences out of 15000+600000
+ 10695 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,6n,31p,561b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,6n,31p,357b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on lettreMotivation.pdf (1 page, 49119 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on lettreMotivation.pdf (1 page, 53836 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
